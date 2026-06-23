@@ -1,0 +1,466 @@
+input_dir = "images"
+out_dir = "build"
+font_name = "Bird"
+glyph_size = 64
+threshold = 64
+codepoint_start = "U+100000"
+project_id = "5639925017ab4581b54e2bf2b6842739"
+
+[threshold_overrides]
+"bird--pgf-4fd541ce-f000001.png" = 45
+"bird--pgf-4fd541ce-f000002.png" = 45
+"bird--pgf-4fd541ce-f000003.png" = 45
+"bird--pgf-4fd541ce-f000004.png" = 45
+"bird--pgf-4fd541ce-f000005.png" = 45
+"bird--pgf-4fd541ce-f000006.png" = 45
+"bird--pgf-4fd541ce-f000007.png" = 45
+"bird--pgf-4fd541ce-f000008.png" = 45
+"bird--pgf-4fd541ce-f000009.png" = 45
+"bird--pgf-4fd541ce-f000010.png" = 45
+"bird--pgf-4fd541ce-f000011.png" = 45
+"bird--pgf-4fd541ce-f000012.png" = 45
+"bird--pgf-4fd541ce-f000013.png" = 45
+"bird--pgf-4fd541ce-f000014.png" = 45
+"bird--pgf-4fd541ce-f000015.png" = 45
+"bird--pgf-4fd541ce-f000016.png" = 45
+"bird--pgf-4fd541ce-f000017.png" = 45
+"bird--pgf-4fd541ce-f000018.png" = 45
+"bird--pgf-4fd541ce-f000019.png" = 45
+"bird--pgf-4fd541ce-f000020.png" = 45
+"bird--pgf-4fd541ce-f000021.png" = 45
+"bird--pgf-4fd541ce-f000022.png" = 45
+"bird--pgf-4fd541ce-f000023.png" = 45
+"bird--pgf-4fd541ce-f000024.png" = 45
+"bird--pgf-4fd541ce-f000025.png" = 45
+"bird--pgf-4fd541ce-f000026.png" = 45
+"bird--pgf-4fd541ce-f000027.png" = 45
+"bird--pgf-4fd541ce-f000028.png" = 45
+"bird--pgf-4fd541ce-f000029.png" = 45
+"bird--pgf-4fd541ce-f000030.png" = 45
+"bird--pgf-4fd541ce-f000031.png" = 45
+"bird--pgf-4fd541ce-f000032.png" = 45
+"bird--pgf-4fd541ce-f000033.png" = 45
+"bird--pgf-4fd541ce-f000034.png" = 45
+"bird--pgf-4fd541ce-f000035.png" = 45
+"bird--pgf-4fd541ce-f000036.png" = 45
+"bird--pgf-4fd541ce-f000037.png" = 45
+"bird--pgf-4fd541ce-f000038.png" = 45
+"bird--pgf-4fd541ce-f000039.png" = 45
+"bird--pgf-4fd541ce-f000040.png" = 45
+"bird--pgf-4fd541ce-f000041.png" = 45
+"bird--pgf-4fd541ce-f000042.png" = 45
+"bird--pgf-4fd541ce-f000043.png" = 45
+"bird--pgf-4fd541ce-f000044.png" = 45
+"bird--pgf-4fd541ce-f000045.png" = 45
+"bird--pgf-4fd541ce-f000046.png" = 45
+"bird--pgf-4fd541ce-f000047.png" = 45
+"bird--pgf-4fd541ce-f000048.png" = 45
+"bird--pgf-4fd541ce-f000049.png" = 45
+"bird--pgf-4fd541ce-f000050.png" = 45
+"bird--pgf-4fd541ce-f000051.png" = 45
+"bird--pgf-4fd541ce-f000052.png" = 45
+"bird--pgf-4fd541ce-f000053.png" = 45
+"bird--pgf-4fd541ce-f000054.png" = 45
+"bird--pgf-4fd541ce-f000055.png" = 45
+"bird--pgf-4fd541ce-f000056.png" = 45
+"bird--pgf-4fd541ce-f000057.png" = 45
+"bird--pgf-4fd541ce-f000058.png" = 45
+"bird--pgf-4fd541ce-f000059.png" = 45
+"bird--pgf-4fd541ce-f000060.png" = 45
+"bird--pgf-4fd541ce-f000061.png" = 45
+"bird--pgf-4fd541ce-f000062.png" = 45
+"bird--pgf-4fd541ce-f000063.png" = 45
+"bird--pgf-4fd541ce-f000064.png" = 45
+"bird--pgf-4fd541ce-f000065.png" = 45
+"bird--pgf-4fd541ce-f000066.png" = 45
+"bird--pgf-4fd541ce-f000067.png" = 45
+"bird--pgf-4fd541ce-f000068.png" = 45
+"bird--pgf-4fd541ce-f000069.png" = 45
+"bird--pgf-4fd541ce-f000070.png" = 45
+"bird--pgf-4fd541ce-f000071.png" = 45
+"bird--pgf-4fd541ce-f000072.png" = 45
+"bird--pgf-4fd541ce-f000073.png" = 45
+
+[compositions."bird--pgf-4fd541ce-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000009.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000010.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000011.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000012.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000013.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000014.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000015.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000016.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000017.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000018.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000019.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000020.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000021.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000022.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000023.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000024.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000025.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000026.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000027.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000028.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000029.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000030.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000031.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000032.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000033.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000034.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000035.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000036.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000037.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000038.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000039.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000040.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000041.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000042.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000043.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000044.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000045.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000046.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000047.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000048.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000049.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000050.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000051.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000052.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000053.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000054.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000055.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000056.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000057.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000058.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000059.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000060.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000061.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000062.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000063.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000064.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000065.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000066.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000067.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000068.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000069.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000070.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000071.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000072.png"]
+rows = 1
+cols = 1
+
+[compositions."bird--pgf-4fd541ce-f000073.png"]
+rows = 1
+cols = 1
+
+[[animations]]
+name = "birdpgf4fd541cef_anim"
+type = "grid"
+fps = 24
+frames = [
+    "bird--pgf-4fd541ce-f000001.png",
+    "bird--pgf-4fd541ce-f000002.png",
+    "bird--pgf-4fd541ce-f000003.png",
+    "bird--pgf-4fd541ce-f000004.png",
+    "bird--pgf-4fd541ce-f000005.png",
+    "bird--pgf-4fd541ce-f000006.png",
+    "bird--pgf-4fd541ce-f000007.png",
+    "bird--pgf-4fd541ce-f000008.png",
+    "bird--pgf-4fd541ce-f000009.png",
+    "bird--pgf-4fd541ce-f000010.png",
+    "bird--pgf-4fd541ce-f000011.png",
+    "bird--pgf-4fd541ce-f000012.png",
+    "bird--pgf-4fd541ce-f000013.png",
+    "bird--pgf-4fd541ce-f000014.png",
+    "bird--pgf-4fd541ce-f000015.png",
+    "bird--pgf-4fd541ce-f000016.png",
+    "bird--pgf-4fd541ce-f000017.png",
+    "bird--pgf-4fd541ce-f000018.png",
+    "bird--pgf-4fd541ce-f000019.png",
+    "bird--pgf-4fd541ce-f000020.png",
+    "bird--pgf-4fd541ce-f000021.png",
+    "bird--pgf-4fd541ce-f000022.png",
+    "bird--pgf-4fd541ce-f000023.png",
+    "bird--pgf-4fd541ce-f000024.png",
+    "bird--pgf-4fd541ce-f000025.png",
+    "bird--pgf-4fd541ce-f000026.png",
+    "bird--pgf-4fd541ce-f000027.png",
+    "bird--pgf-4fd541ce-f000028.png",
+    "bird--pgf-4fd541ce-f000029.png",
+    "bird--pgf-4fd541ce-f000030.png",
+    "bird--pgf-4fd541ce-f000031.png",
+    "bird--pgf-4fd541ce-f000032.png",
+    "bird--pgf-4fd541ce-f000033.png",
+    "bird--pgf-4fd541ce-f000034.png",
+    "bird--pgf-4fd541ce-f000035.png",
+    "bird--pgf-4fd541ce-f000036.png",
+    "bird--pgf-4fd541ce-f000037.png",
+    "bird--pgf-4fd541ce-f000038.png",
+    "bird--pgf-4fd541ce-f000039.png",
+    "bird--pgf-4fd541ce-f000040.png",
+    "bird--pgf-4fd541ce-f000041.png",
+    "bird--pgf-4fd541ce-f000042.png",
+    "bird--pgf-4fd541ce-f000043.png",
+    "bird--pgf-4fd541ce-f000044.png",
+    "bird--pgf-4fd541ce-f000045.png",
+    "bird--pgf-4fd541ce-f000046.png",
+    "bird--pgf-4fd541ce-f000047.png",
+    "bird--pgf-4fd541ce-f000048.png",
+    "bird--pgf-4fd541ce-f000049.png",
+    "bird--pgf-4fd541ce-f000050.png",
+    "bird--pgf-4fd541ce-f000051.png",
+    "bird--pgf-4fd541ce-f000052.png",
+    "bird--pgf-4fd541ce-f000053.png",
+    "bird--pgf-4fd541ce-f000054.png",
+    "bird--pgf-4fd541ce-f000055.png",
+    "bird--pgf-4fd541ce-f000056.png",
+    "bird--pgf-4fd541ce-f000057.png",
+    "bird--pgf-4fd541ce-f000058.png",
+    "bird--pgf-4fd541ce-f000059.png",
+    "bird--pgf-4fd541ce-f000060.png",
+    "bird--pgf-4fd541ce-f000061.png",
+    "bird--pgf-4fd541ce-f000062.png",
+    "bird--pgf-4fd541ce-f000063.png",
+    "bird--pgf-4fd541ce-f000064.png",
+    "bird--pgf-4fd541ce-f000065.png",
+    "bird--pgf-4fd541ce-f000066.png",
+    "bird--pgf-4fd541ce-f000067.png",
+    "bird--pgf-4fd541ce-f000068.png",
+    "bird--pgf-4fd541ce-f000069.png",
+    "bird--pgf-4fd541ce-f000070.png",
+    "bird--pgf-4fd541ce-f000071.png",
+    "bird--pgf-4fd541ce-f000072.png",
+    "bird--pgf-4fd541ce-f000073.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100

@@ -1,0 +1,889 @@
+{
+  "version": 1,
+  "project_id": "5639925017ab4581b54e2bf2b6842739",
+  "codepoint_start": "U+101998",
+  "entries": [
+    {
+      "source_file": "bird--pgf-4fd541ce-f000001.png#compose:1x2:0:0",
+      "codepoint": "U+101998",
+      "image_fingerprint": "fnv1a64:a1c3ce70a31afc07",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000001.png#compose:1x2:0:1",
+      "codepoint": "U+101999",
+      "image_fingerprint": "fnv1a64:82c90767982bb1e6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000002.png#compose:1x2:0:0",
+      "codepoint": "U+10199A",
+      "image_fingerprint": "fnv1a64:b1242795f575a5eb",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000002.png#compose:1x2:0:1",
+      "codepoint": "U+10199B",
+      "image_fingerprint": "fnv1a64:9229608cea865bca",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000003.png#compose:1x2:0:0",
+      "codepoint": "U+10199C",
+      "image_fingerprint": "fnv1a64:9dd69c33fcb7da30",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000003.png#compose:1x2:0:1",
+      "codepoint": "U+10199D",
+      "image_fingerprint": "fnv1a64:bcd1633d07a72451",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000004.png#compose:1x2:0:0",
+      "codepoint": "U+10199E",
+      "image_fingerprint": "fnv1a64:d4c0cb182fc18455",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000004.png#compose:1x2:0:1",
+      "codepoint": "U+10199F",
+      "image_fingerprint": "fnv1a64:b5c6040f24d23a34",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000005.png#compose:1x2:0:0",
+      "codepoint": "U+1019A0",
+      "image_fingerprint": "fnv1a64:a4d73fb6c95cee7c",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000005.png#compose:1x2:0:1",
+      "codepoint": "U+1019A1",
+      "image_fingerprint": "fnv1a64:c3d206bfd44c389d",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000006.png#compose:1x2:0:0",
+      "codepoint": "U+1019A2",
+      "image_fingerprint": "fnv1a64:5231b20bd3220be1",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000006.png#compose:1x2:0:1",
+      "codepoint": "U+1019A3",
+      "image_fingerprint": "fnv1a64:3336eb02c832c1c0",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000007.png#compose:1x2:0:0",
+      "codepoint": "U+1019A4",
+      "image_fingerprint": "fnv1a64:2fd1e82164e15ac7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000007.png#compose:1x2:0:1",
+      "codepoint": "U+1019A5",
+      "image_fingerprint": "fnv1a64:10d7211859f210a6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000008.png#compose:1x2:0:0",
+      "codepoint": "U+1019A6",
+      "image_fingerprint": "fnv1a64:36473cbce212ec1b",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000008.png#compose:1x2:0:1",
+      "codepoint": "U+1019A7",
+      "image_fingerprint": "fnv1a64:174c75b3d723a1fa",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000009.png#compose:1x2:0:0",
+      "codepoint": "U+1019A8",
+      "image_fingerprint": "fnv1a64:0a46d827f272ff6a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000009.png#compose:1x2:0:1",
+      "codepoint": "U+1019A9",
+      "image_fingerprint": "fnv1a64:29419f30fd62498b",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000010.png#compose:1x2:0:0",
+      "codepoint": "U+1019AA",
+      "image_fingerprint": "fnv1a64:3d107c432a19b5f0",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000010.png#compose:1x2:0:1",
+      "codepoint": "U+1019AB",
+      "image_fingerprint": "fnv1a64:5c0b434c35090011",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000011.png#compose:1x2:0:0",
+      "codepoint": "U+1019AC",
+      "image_fingerprint": "fnv1a64:f58d112f98a71c9d",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000011.png#compose:1x2:0:1",
+      "codepoint": "U+1019AD",
+      "image_fingerprint": "fnv1a64:d6924a268db7d27c",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000012.png#compose:1x2:0:0",
+      "codepoint": "U+1019AE",
+      "image_fingerprint": "fnv1a64:33a51ad08f856638",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000012.png#compose:1x2:0:1",
+      "codepoint": "U+1019AF",
+      "image_fingerprint": "fnv1a64:529fe1d99a74b059",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000013.png#compose:1x2:0:0",
+      "codepoint": "U+1019B0",
+      "image_fingerprint": "fnv1a64:b29b4305d2b211e6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000013.png#compose:1x2:0:1",
+      "codepoint": "U+1019B1",
+      "image_fingerprint": "fnv1a64:d1960a0edda15c07",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000014.png#compose:1x2:0:0",
+      "codepoint": "U+1019B2",
+      "image_fingerprint": "fnv1a64:64a80469d24a0a54",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000014.png#compose:1x2:0:1",
+      "codepoint": "U+1019B3",
+      "image_fingerprint": "fnv1a64:83a2cb72dd395475",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000015.png#compose:1x2:0:0",
+      "codepoint": "U+1019B4",
+      "image_fingerprint": "fnv1a64:14d81cae02549905",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000015.png#compose:1x2:0:1",
+      "codepoint": "U+1019B5",
+      "image_fingerprint": "fnv1a64:f5dd55a4f7654ee4",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000016.png#compose:1x2:0:0",
+      "codepoint": "U+1019B6",
+      "image_fingerprint": "fnv1a64:3437003618082161",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000016.png#compose:1x2:0:1",
+      "codepoint": "U+1019B7",
+      "image_fingerprint": "fnv1a64:153c392d0d18d740",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000017.png#compose:1x2:0:0",
+      "codepoint": "U+1019B8",
+      "image_fingerprint": "fnv1a64:2ed5862017af44b9",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000017.png#compose:1x2:0:1",
+      "codepoint": "U+1019B9",
+      "image_fingerprint": "fnv1a64:0fdabf170cbffa98",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000018.png#compose:1x2:0:0",
+      "codepoint": "U+1019BA",
+      "image_fingerprint": "fnv1a64:a2af3c24d88b506d",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000018.png#compose:1x2:0:1",
+      "codepoint": "U+1019BB",
+      "image_fingerprint": "fnv1a64:83b4751bcd9c064c",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000019.png#compose:1x2:0:0",
+      "codepoint": "U+1019BC",
+      "image_fingerprint": "fnv1a64:6d235f51ba65cca6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000019.png#compose:1x2:0:1",
+      "codepoint": "U+1019BD",
+      "image_fingerprint": "fnv1a64:8c1e265ac55516c7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000020.png#compose:1x2:0:0",
+      "codepoint": "U+1019BE",
+      "image_fingerprint": "fnv1a64:853880c7186ce8e8",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000020.png#compose:1x2:0:1",
+      "codepoint": "U+1019BF",
+      "image_fingerprint": "fnv1a64:a43347d0235c3309",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000021.png#compose:1x2:0:0",
+      "codepoint": "U+1019C0",
+      "image_fingerprint": "fnv1a64:bfccf4d3a2b18879",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000021.png#compose:1x2:0:1",
+      "codepoint": "U+1019C1",
+      "image_fingerprint": "fnv1a64:a0d22dca97c23e58",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000022.png#compose:1x2:0:0",
+      "codepoint": "U+1019C2",
+      "image_fingerprint": "fnv1a64:508554be8a2390b6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000022.png#compose:1x2:0:1",
+      "codepoint": "U+1019C3",
+      "image_fingerprint": "fnv1a64:6f801bc79512dad7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000023.png#compose:1x2:0:0",
+      "codepoint": "U+1019C4",
+      "image_fingerprint": "fnv1a64:713e907f6c830b61",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000023.png#compose:1x2:0:1",
+      "codepoint": "U+1019C5",
+      "image_fingerprint": "fnv1a64:5243c9766193c140",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000024.png#compose:1x2:0:0",
+      "codepoint": "U+1019C6",
+      "image_fingerprint": "fnv1a64:14114c336e1060c5",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000024.png#compose:1x2:0:1",
+      "codepoint": "U+1019C7",
+      "image_fingerprint": "fnv1a64:f516852a632116a4",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000025.png#compose:1x2:0:0",
+      "codepoint": "U+1019C8",
+      "image_fingerprint": "fnv1a64:95eaa30f70ac5ae3",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000025.png#compose:1x2:0:1",
+      "codepoint": "U+1019C9",
+      "image_fingerprint": "fnv1a64:76efdc0665bd10c2",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000026.png#compose:1x2:0:0",
+      "codepoint": "U+1019CA",
+      "image_fingerprint": "fnv1a64:7dce298f737e078a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000026.png#compose:1x2:0:1",
+      "codepoint": "U+1019CB",
+      "image_fingerprint": "fnv1a64:9cc8f0987e6d51ab",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000027.png#compose:1x2:0:0",
+      "codepoint": "U+1019CC",
+      "image_fingerprint": "fnv1a64:ae8b2575d3905d9b",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000027.png#compose:1x2:0:1",
+      "codepoint": "U+1019CD",
+      "image_fingerprint": "fnv1a64:8f905e6cc8a1137a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000028.png#compose:1x2:0:0",
+      "codepoint": "U+1019CE",
+      "image_fingerprint": "fnv1a64:0dab3df278cfb6fc",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000028.png#compose:1x2:0:1",
+      "codepoint": "U+1019CF",
+      "image_fingerprint": "fnv1a64:2ca604fb83bf011d",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000029.png#compose:1x2:0:0",
+      "codepoint": "U+1019D0",
+      "image_fingerprint": "fnv1a64:9346d77dab53b4c7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000029.png#compose:1x2:0:1",
+      "codepoint": "U+1019D1",
+      "image_fingerprint": "fnv1a64:744c1074a0646aa6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000030.png#compose:1x2:0:0",
+      "codepoint": "U+1019D2",
+      "image_fingerprint": "fnv1a64:8b7a00ab7bc3dc36",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000030.png#compose:1x2:0:1",
+      "codepoint": "U+1019D3",
+      "image_fingerprint": "fnv1a64:aa74c7b486b32657",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000031.png#compose:1x2:0:0",
+      "codepoint": "U+1019D4",
+      "image_fingerprint": "fnv1a64:e53099867d55c01f",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000031.png#compose:1x2:0:1",
+      "codepoint": "U+1019D5",
+      "image_fingerprint": "fnv1a64:c635d27d726675fe",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000032.png#compose:1x2:0:0",
+      "codepoint": "U+1019D6",
+      "image_fingerprint": "fnv1a64:e4354c1ccf9b974b",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000032.png#compose:1x2:0:1",
+      "codepoint": "U+1019D7",
+      "image_fingerprint": "fnv1a64:c53a8513c4ac4d2a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000033.png#compose:1x2:0:0",
+      "codepoint": "U+1019D8",
+      "image_fingerprint": "fnv1a64:9cbd80dc14d03963",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000033.png#compose:1x2:0:1",
+      "codepoint": "U+1019D9",
+      "image_fingerprint": "fnv1a64:7dc2b9d309e0ef42",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000034.png#compose:1x2:0:0",
+      "codepoint": "U+1019DA",
+      "image_fingerprint": "fnv1a64:ac7868f9c02e0221",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000034.png#compose:1x2:0:1",
+      "codepoint": "U+1019DB",
+      "image_fingerprint": "fnv1a64:8d7da1f0b53eb800",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000035.png#compose:1x2:0:0",
+      "codepoint": "U+1019DC",
+      "image_fingerprint": "fnv1a64:f5516672036e4029",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000035.png#compose:1x2:0:1",
+      "codepoint": "U+1019DD",
+      "image_fingerprint": "fnv1a64:d6569f68f87ef608",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000036.png#compose:1x2:0:0",
+      "codepoint": "U+1019DE",
+      "image_fingerprint": "fnv1a64:e124ccf2836d1453",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000036.png#compose:1x2:0:1",
+      "codepoint": "U+1019DF",
+      "image_fingerprint": "fnv1a64:c22a05e9787dca32",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000037.png#compose:1x2:0:0",
+      "codepoint": "U+1019E0",
+      "image_fingerprint": "fnv1a64:2f749536bcc62a7e",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000037.png#compose:1x2:0:1",
+      "codepoint": "U+1019E1",
+      "image_fingerprint": "fnv1a64:4e6f5c3fc7b5749f",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000038.png#compose:1x2:0:0",
+      "codepoint": "U+1019E2",
+      "image_fingerprint": "fnv1a64:5bbafe5a9f881e91",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000038.png#compose:1x2:0:1",
+      "codepoint": "U+1019E3",
+      "image_fingerprint": "fnv1a64:3cc037519498d470",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000039.png#compose:1x2:0:0",
+      "codepoint": "U+1019E4",
+      "image_fingerprint": "fnv1a64:4674efbb8ec92a96",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000039.png#compose:1x2:0:1",
+      "codepoint": "U+1019E5",
+      "image_fingerprint": "fnv1a64:656fb6c499b874b7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000040.png#compose:1x2:0:0",
+      "codepoint": "U+1019E6",
+      "image_fingerprint": "fnv1a64:c93d98ca8abd43b2",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000040.png#compose:1x2:0:1",
+      "codepoint": "U+1019E7",
+      "image_fingerprint": "fnv1a64:e8385fd395ac8dd3",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000041.png#compose:1x2:0:0",
+      "codepoint": "U+1019E8",
+      "image_fingerprint": "fnv1a64:7dce298f737e078a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000041.png#compose:1x2:0:1",
+      "codepoint": "U+1019E9",
+      "image_fingerprint": "fnv1a64:9cc8f0987e6d51ab",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000042.png#compose:1x2:0:0",
+      "codepoint": "U+1019EA",
+      "image_fingerprint": "fnv1a64:d5c56bd3f1eaf199",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000042.png#compose:1x2:0:1",
+      "codepoint": "U+1019EB",
+      "image_fingerprint": "fnv1a64:b6caa4cae6fba778",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000043.png#compose:1x2:0:0",
+      "codepoint": "U+1019EC",
+      "image_fingerprint": "fnv1a64:9346d77dab53b4c7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000043.png#compose:1x2:0:1",
+      "codepoint": "U+1019ED",
+      "image_fingerprint": "fnv1a64:744c1074a0646aa6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000044.png#compose:1x2:0:0",
+      "codepoint": "U+1019EE",
+      "image_fingerprint": "fnv1a64:8b7a00ab7bc3dc36",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000044.png#compose:1x2:0:1",
+      "codepoint": "U+1019EF",
+      "image_fingerprint": "fnv1a64:aa74c7b486b32657",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000045.png#compose:1x2:0:0",
+      "codepoint": "U+1019F0",
+      "image_fingerprint": "fnv1a64:e53099867d55c01f",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000045.png#compose:1x2:0:1",
+      "codepoint": "U+1019F1",
+      "image_fingerprint": "fnv1a64:c635d27d726675fe",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000046.png#compose:1x2:0:0",
+      "codepoint": "U+1019F2",
+      "image_fingerprint": "fnv1a64:e4354c1ccf9b974b",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000046.png#compose:1x2:0:1",
+      "codepoint": "U+1019F3",
+      "image_fingerprint": "fnv1a64:c53a8513c4ac4d2a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000047.png#compose:1x2:0:0",
+      "codepoint": "U+1019F4",
+      "image_fingerprint": "fnv1a64:83d9c9cdf02658ea",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000047.png#compose:1x2:0:1",
+      "codepoint": "U+1019F5",
+      "image_fingerprint": "fnv1a64:a2d490d6fb15a30b",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000048.png#compose:1x2:0:0",
+      "codepoint": "U+1019F6",
+      "image_fingerprint": "fnv1a64:6d09d192e1212aad",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000048.png#compose:1x2:0:1",
+      "codepoint": "U+1019F7",
+      "image_fingerprint": "fnv1a64:4e0f0a89d631e08c",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000049.png#compose:1x2:0:0",
+      "codepoint": "U+1019F8",
+      "image_fingerprint": "fnv1a64:ac7868f9c02e0221",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000049.png#compose:1x2:0:1",
+      "codepoint": "U+1019F9",
+      "image_fingerprint": "fnv1a64:8d7da1f0b53eb800",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000050.png#compose:1x2:0:0",
+      "codepoint": "U+1019FA",
+      "image_fingerprint": "fnv1a64:f5516672036e4029",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000050.png#compose:1x2:0:1",
+      "codepoint": "U+1019FB",
+      "image_fingerprint": "fnv1a64:d6569f68f87ef608",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000051.png#compose:1x2:0:0",
+      "codepoint": "U+1019FC",
+      "image_fingerprint": "fnv1a64:5ed96c8ffda3756f",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000051.png#compose:1x2:0:1",
+      "codepoint": "U+1019FD",
+      "image_fingerprint": "fnv1a64:3fdea586f2b42b4e",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000052.png#compose:1x2:0:0",
+      "codepoint": "U+1019FE",
+      "image_fingerprint": "fnv1a64:664b5c89c10be773",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000052.png#compose:1x2:0:1",
+      "codepoint": "U+1019FF",
+      "image_fingerprint": "fnv1a64:47509580b61c9d52",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000053.png#compose:1x2:0:0",
+      "codepoint": "U+101A00",
+      "image_fingerprint": "fnv1a64:b93fae6be8fe0fa7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000053.png#compose:1x2:0:1",
+      "codepoint": "U+101A01",
+      "image_fingerprint": "fnv1a64:9a44e762de0ec586",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000054.png#compose:1x2:0:0",
+      "codepoint": "U+101A02",
+      "image_fingerprint": "fnv1a64:59d46372461f8525",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000054.png#compose:1x2:0:1",
+      "codepoint": "U+101A03",
+      "image_fingerprint": "fnv1a64:3ad99c693b303b04",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000055.png#compose:1x2:0:0",
+      "codepoint": "U+101A04",
+      "image_fingerprint": "fnv1a64:2f61a12b7d891f06",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000055.png#compose:1x2:0:1",
+      "codepoint": "U+101A05",
+      "image_fingerprint": "fnv1a64:4e5c683488786927",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000056.png#compose:1x2:0:0",
+      "codepoint": "U+101A06",
+      "image_fingerprint": "fnv1a64:0ae71b6f08418edf",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000056.png#compose:1x2:0:1",
+      "codepoint": "U+101A07",
+      "image_fingerprint": "fnv1a64:ebec5465fd5244be",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000057.png#compose:1x2:0:0",
+      "codepoint": "U+101A08",
+      "image_fingerprint": "fnv1a64:b6659c8382357c66",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000057.png#compose:1x2:0:1",
+      "codepoint": "U+101A09",
+      "image_fingerprint": "fnv1a64:d560638c8d24c687",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000058.png#compose:1x2:0:0",
+      "codepoint": "U+101A0A",
+      "image_fingerprint": "fnv1a64:01f5c86e04037cf8",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000058.png#compose:1x2:0:1",
+      "codepoint": "U+101A0B",
+      "image_fingerprint": "fnv1a64:20f08f770ef2c719",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000059.png#compose:1x2:0:0",
+      "codepoint": "U+101A0C",
+      "image_fingerprint": "fnv1a64:6e0a6009b6259232",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000059.png#compose:1x2:0:1",
+      "codepoint": "U+101A0D",
+      "image_fingerprint": "fnv1a64:8d052712c114dc53",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000060.png#compose:1x2:0:0",
+      "codepoint": "U+101A0E",
+      "image_fingerprint": "fnv1a64:2cfd56e1219a8cff",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000060.png#compose:1x2:0:1",
+      "codepoint": "U+101A0F",
+      "image_fingerprint": "fnv1a64:0e028fd816ab42de",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000061.png#compose:1x2:0:0",
+      "codepoint": "U+101A10",
+      "image_fingerprint": "fnv1a64:38bf8ebc17a69a85",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000061.png#compose:1x2:0:1",
+      "codepoint": "U+101A11",
+      "image_fingerprint": "fnv1a64:19c4c7b30cb75064",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000062.png#compose:1x2:0:0",
+      "codepoint": "U+101A12",
+      "image_fingerprint": "fnv1a64:4e0a5a08a455883f",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000062.png#compose:1x2:0:1",
+      "codepoint": "U+101A13",
+      "image_fingerprint": "fnv1a64:2f0f92ff99663e1e",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000063.png#compose:1x2:0:0",
+      "codepoint": "U+101A14",
+      "image_fingerprint": "fnv1a64:16420392136dd107",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000063.png#compose:1x2:0:1",
+      "codepoint": "U+101A15",
+      "image_fingerprint": "fnv1a64:f7473c89087e86e6",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000064.png#compose:1x2:0:0",
+      "codepoint": "U+101A16",
+      "image_fingerprint": "fnv1a64:834215c64392f057",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000064.png#compose:1x2:0:1",
+      "codepoint": "U+101A17",
+      "image_fingerprint": "fnv1a64:64474ebd38a3a636",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000065.png#compose:1x2:0:0",
+      "codepoint": "U+101A18",
+      "image_fingerprint": "fnv1a64:46e1276a3461efeb",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000065.png#compose:1x2:0:1",
+      "codepoint": "U+101A19",
+      "image_fingerprint": "fnv1a64:27e660612972a5ca",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000066.png#compose:1x2:0:0",
+      "codepoint": "U+101A1A",
+      "image_fingerprint": "fnv1a64:9e46e511e29d6392",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000066.png#compose:1x2:0:1",
+      "codepoint": "U+101A1B",
+      "image_fingerprint": "fnv1a64:bd41ac1aed8cadb3",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000067.png#compose:1x2:0:0",
+      "codepoint": "U+101A1C",
+      "image_fingerprint": "fnv1a64:3e65f4e4687a2186",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000067.png#compose:1x2:0:1",
+      "codepoint": "U+101A1D",
+      "image_fingerprint": "fnv1a64:5d60bbed73696ba7",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000068.png#compose:1x2:0:0",
+      "codepoint": "U+101A1E",
+      "image_fingerprint": "fnv1a64:0ee51a18627d8d8a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000068.png#compose:1x2:0:1",
+      "codepoint": "U+101A1F",
+      "image_fingerprint": "fnv1a64:2ddfe1216d6cd7ab",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000069.png#compose:1x2:0:0",
+      "codepoint": "U+101A20",
+      "image_fingerprint": "fnv1a64:f30aa1e7c9ff4e4b",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000069.png#compose:1x2:0:1",
+      "codepoint": "U+101A21",
+      "image_fingerprint": "fnv1a64:d40fdadebf10042a",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000070.png#compose:1x2:0:0",
+      "codepoint": "U+101A22",
+      "image_fingerprint": "fnv1a64:2c14ea021048f783",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000070.png#compose:1x2:0:1",
+      "codepoint": "U+101A23",
+      "image_fingerprint": "fnv1a64:0d1a22f90559ad62",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000071.png#compose:1x2:0:0",
+      "codepoint": "U+101A24",
+      "image_fingerprint": "fnv1a64:445778acef172277",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000071.png#compose:1x2:0:1",
+      "codepoint": "U+101A25",
+      "image_fingerprint": "fnv1a64:255cb1a3e427d856",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000072.png#compose:1x2:0:0",
+      "codepoint": "U+101A26",
+      "image_fingerprint": "fnv1a64:2678845f71475e3d",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000072.png#compose:1x2:0:1",
+      "codepoint": "U+101A27",
+      "image_fingerprint": "fnv1a64:077dbd566658141c",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000073.png#compose:1x2:0:0",
+      "codepoint": "U+101A28",
+      "image_fingerprint": "fnv1a64:1dd512ebb0f12a77",
+      "active": true
+    },
+    {
+      "source_file": "bird--pgf-4fd541ce-f000073.png#compose:1x2:0:1",
+      "codepoint": "U+101A29",
+      "image_fingerprint": "fnv1a64:feda4be2a601e056",
+      "active": true
+    },
+    {
+      "source_file": "bird.gif",
+      "codepoint": "U+101A2A",
+      "image_fingerprint": "fnv1a64:947f1cb57f755f4b",
+      "active": true
+    }
+  ]
+}
