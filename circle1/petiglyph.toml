@@ -1,0 +1,514 @@
+input_dir = "images"
+out_dir = "build"
+font_name = "Circle1"
+glyph_size = 64
+threshold = 64
+codepoint_start = "U+100000"
+project_id = "370c4a46f7d741b9be45380fb4d6099d"
+
+[threshold_overrides]
+"circle1--pgf-f095652a-f000001.png" = 12
+"circle1--pgf-f095652a-f000002.png" = 12
+"circle1--pgf-f095652a-f000003.png" = 12
+"circle1--pgf-f095652a-f000004.png" = 12
+"circle1--pgf-f095652a-f000005.png" = 12
+"circle1--pgf-f095652a-f000006.png" = 12
+"circle1--pgf-f095652a-f000007.png" = 12
+"circle1--pgf-f095652a-f000008.png" = 12
+"circle1--pgf-f095652a-f000009.png" = 12
+"circle1--pgf-f095652a-f000010.png" = 12
+"circle1--pgf-f095652a-f000011.png" = 12
+"circle1--pgf-f095652a-f000012.png" = 12
+"circle1--pgf-f095652a-f000013.png" = 12
+"circle1--pgf-f095652a-f000014.png" = 12
+"circle1--pgf-f095652a-f000015.png" = 12
+"circle1--pgf-f095652a-f000016.png" = 12
+"circle1--pgf-f095652a-f000017.png" = 12
+"circle1--pgf-f095652a-f000018.png" = 12
+"circle1--pgf-f095652a-f000019.png" = 12
+"circle1--pgf-f095652a-f000020.png" = 12
+"circle1--pgf-f095652a-f000021.png" = 12
+"circle1--pgf-f095652a-f000022.png" = 12
+"circle1--pgf-f095652a-f000023.png" = 12
+"circle1--pgf-f095652a-f000024.png" = 12
+"circle1--pgf-f095652a-f000025.png" = 12
+"circle1--pgf-f095652a-f000026.png" = 12
+"circle1--pgf-f095652a-f000027.png" = 12
+"circle1--pgf-f095652a-f000028.png" = 12
+"circle1--pgf-f095652a-f000029.png" = 12
+"circle1--pgf-f095652a-f000030.png" = 12
+"circle1--pgf-f095652a-f000031.png" = 12
+"circle1--pgf-f095652a-f000032.png" = 12
+"circle1--pgf-f095652a-f000033.png" = 12
+"circle1--pgf-f095652a-f000034.png" = 12
+"circle1--pgf-f095652a-f000035.png" = 12
+"circle1--pgf-f095652a-f000036.png" = 12
+"circle1--pgf-f095652a-f000037.png" = 12
+"circle1--pgf-f095652a-f000038.png" = 12
+"circle1--pgf-f095652a-f000039.png" = 12
+"circle1--pgf-f095652a-f000040.png" = 12
+"circle1--pgf-f095652a-f000041.png" = 12
+"circle1--pgf-f095652a-f000042.png" = 12
+"circle1--pgf-f095652a-f000043.png" = 12
+"circle1--pgf-f095652a-f000044.png" = 12
+"circle1--pgf-f095652a-f000045.png" = 12
+"circle1--pgf-f095652a-f000046.png" = 12
+"circle1--pgf-f095652a-f000047.png" = 12
+"circle1--pgf-f095652a-f000048.png" = 12
+"circle1--pgf-f095652a-f000049.png" = 12
+"circle1--pgf-f095652a-f000050.png" = 12
+"circle1--pgf-f095652a-f000051.png" = 12
+"circle1--pgf-f095652a-f000052.png" = 12
+"circle1--pgf-f095652a-f000053.png" = 12
+"circle1--pgf-f095652a-f000054.png" = 12
+"circle1--pgf-f095652a-f000055.png" = 12
+"circle1--pgf-f095652a-f000056.png" = 12
+"circle1--pgf-f095652a-f000057.png" = 12
+"circle1--pgf-f095652a-f000058.png" = 12
+"circle1--pgf-f095652a-f000059.png" = 12
+"circle1--pgf-f095652a-f000060.png" = 12
+"circle1--pgf-f095652a-f000061.png" = 12
+"circle1--pgf-f095652a-f000062.png" = 12
+"circle1--pgf-f095652a-f000063.png" = 12
+"circle1--pgf-f095652a-f000064.png" = 12
+"circle1--pgf-f095652a-f000065.png" = 12
+"circle1--pgf-f095652a-f000066.png" = 12
+"circle1--pgf-f095652a-f000067.png" = 12
+"circle1--pgf-f095652a-f000068.png" = 12
+"circle1--pgf-f095652a-f000069.png" = 12
+"circle1--pgf-f095652a-f000070.png" = 12
+"circle1--pgf-f095652a-f000071.png" = 12
+"circle1--pgf-f095652a-f000072.png" = 12
+"circle1--pgf-f095652a-f000073.png" = 12
+"circle1--pgf-f095652a-f000074.png" = 12
+"circle1--pgf-f095652a-f000075.png" = 12
+"circle1--pgf-f095652a-f000076.png" = 12
+"circle1--pgf-f095652a-f000077.png" = 12
+"circle1--pgf-f095652a-f000078.png" = 12
+"circle1--pgf-f095652a-f000079.png" = 12
+"circle1--pgf-f095652a-f000080.png" = 12
+"circle1--pgf-f095652a-f000081.png" = 12
+
+[compositions."circle1--pgf-f095652a-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000009.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000010.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000011.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000012.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000013.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000014.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000015.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000016.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000017.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000018.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000019.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000020.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000021.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000022.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000023.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000024.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000025.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000026.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000027.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000028.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000029.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000030.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000031.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000032.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000033.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000034.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000035.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000036.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000037.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000038.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000039.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000040.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000041.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000042.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000043.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000044.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000045.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000046.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000047.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000048.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000049.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000050.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000051.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000052.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000053.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000054.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000055.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000056.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000057.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000058.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000059.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000060.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000061.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000062.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000063.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000064.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000065.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000066.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000067.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000068.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000069.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000070.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000071.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000072.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000073.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000074.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000075.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000076.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000077.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000078.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000079.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000080.png"]
+rows = 1
+cols = 1
+
+[compositions."circle1--pgf-f095652a-f000081.png"]
+rows = 1
+cols = 1
+
+[[animations]]
+name = "circle1pgff095652af_anim"
+type = "grid"
+fps = 24
+frames = [
+    "circle1--pgf-f095652a-f000001.png",
+    "circle1--pgf-f095652a-f000002.png",
+    "circle1--pgf-f095652a-f000003.png",
+    "circle1--pgf-f095652a-f000004.png",
+    "circle1--pgf-f095652a-f000005.png",
+    "circle1--pgf-f095652a-f000006.png",
+    "circle1--pgf-f095652a-f000007.png",
+    "circle1--pgf-f095652a-f000008.png",
+    "circle1--pgf-f095652a-f000009.png",
+    "circle1--pgf-f095652a-f000010.png",
+    "circle1--pgf-f095652a-f000011.png",
+    "circle1--pgf-f095652a-f000012.png",
+    "circle1--pgf-f095652a-f000013.png",
+    "circle1--pgf-f095652a-f000014.png",
+    "circle1--pgf-f095652a-f000015.png",
+    "circle1--pgf-f095652a-f000016.png",
+    "circle1--pgf-f095652a-f000017.png",
+    "circle1--pgf-f095652a-f000018.png",
+    "circle1--pgf-f095652a-f000019.png",
+    "circle1--pgf-f095652a-f000020.png",
+    "circle1--pgf-f095652a-f000021.png",
+    "circle1--pgf-f095652a-f000022.png",
+    "circle1--pgf-f095652a-f000023.png",
+    "circle1--pgf-f095652a-f000024.png",
+    "circle1--pgf-f095652a-f000025.png",
+    "circle1--pgf-f095652a-f000026.png",
+    "circle1--pgf-f095652a-f000027.png",
+    "circle1--pgf-f095652a-f000028.png",
+    "circle1--pgf-f095652a-f000029.png",
+    "circle1--pgf-f095652a-f000030.png",
+    "circle1--pgf-f095652a-f000031.png",
+    "circle1--pgf-f095652a-f000032.png",
+    "circle1--pgf-f095652a-f000033.png",
+    "circle1--pgf-f095652a-f000034.png",
+    "circle1--pgf-f095652a-f000035.png",
+    "circle1--pgf-f095652a-f000036.png",
+    "circle1--pgf-f095652a-f000037.png",
+    "circle1--pgf-f095652a-f000038.png",
+    "circle1--pgf-f095652a-f000039.png",
+    "circle1--pgf-f095652a-f000040.png",
+    "circle1--pgf-f095652a-f000041.png",
+    "circle1--pgf-f095652a-f000042.png",
+    "circle1--pgf-f095652a-f000043.png",
+    "circle1--pgf-f095652a-f000044.png",
+    "circle1--pgf-f095652a-f000045.png",
+    "circle1--pgf-f095652a-f000046.png",
+    "circle1--pgf-f095652a-f000047.png",
+    "circle1--pgf-f095652a-f000048.png",
+    "circle1--pgf-f095652a-f000049.png",
+    "circle1--pgf-f095652a-f000050.png",
+    "circle1--pgf-f095652a-f000051.png",
+    "circle1--pgf-f095652a-f000052.png",
+    "circle1--pgf-f095652a-f000053.png",
+    "circle1--pgf-f095652a-f000054.png",
+    "circle1--pgf-f095652a-f000055.png",
+    "circle1--pgf-f095652a-f000056.png",
+    "circle1--pgf-f095652a-f000057.png",
+    "circle1--pgf-f095652a-f000058.png",
+    "circle1--pgf-f095652a-f000059.png",
+    "circle1--pgf-f095652a-f000060.png",
+    "circle1--pgf-f095652a-f000061.png",
+    "circle1--pgf-f095652a-f000062.png",
+    "circle1--pgf-f095652a-f000063.png",
+    "circle1--pgf-f095652a-f000064.png",
+    "circle1--pgf-f095652a-f000065.png",
+    "circle1--pgf-f095652a-f000066.png",
+    "circle1--pgf-f095652a-f000067.png",
+    "circle1--pgf-f095652a-f000068.png",
+    "circle1--pgf-f095652a-f000069.png",
+    "circle1--pgf-f095652a-f000070.png",
+    "circle1--pgf-f095652a-f000071.png",
+    "circle1--pgf-f095652a-f000072.png",
+    "circle1--pgf-f095652a-f000073.png",
+    "circle1--pgf-f095652a-f000074.png",
+    "circle1--pgf-f095652a-f000075.png",
+    "circle1--pgf-f095652a-f000076.png",
+    "circle1--pgf-f095652a-f000077.png",
+    "circle1--pgf-f095652a-f000078.png",
+    "circle1--pgf-f095652a-f000079.png",
+    "circle1--pgf-f095652a-f000080.png",
+    "circle1--pgf-f095652a-f000081.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100

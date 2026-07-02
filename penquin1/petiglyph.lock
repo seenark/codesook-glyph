@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "project_id": "2177040a020b4010822ca2c94b8c055c",
+  "codepoint_start": "U+100817",
+  "entries": [
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000001.png#compose:1x2:0:0",
+      "codepoint": "U+100817",
+      "image_fingerprint": "fnv1a64:935d369b91e705b6",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000001.png#compose:1x2:0:1",
+      "codepoint": "U+100818",
+      "image_fingerprint": "fnv1a64:b257fda49cd64fd7",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000002.png#compose:1x2:0:0",
+      "codepoint": "U+100819",
+      "image_fingerprint": "fnv1a64:c9be8e176892649e",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000002.png#compose:1x2:0:1",
+      "codepoint": "U+10081A",
+      "image_fingerprint": "fnv1a64:e8b955207381aebf",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000003.png#compose:1x2:0:0",
+      "codepoint": "U+10081B",
+      "image_fingerprint": "fnv1a64:bd02fadb5cd41b3a",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000003.png#compose:1x2:0:1",
+      "codepoint": "U+10081C",
+      "image_fingerprint": "fnv1a64:dbfdc1e467c3655b",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000004.png#compose:1x2:0:0",
+      "codepoint": "U+10081D",
+      "image_fingerprint": "fnv1a64:bb74bb2363fe1e9c",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000004.png#compose:1x2:0:1",
+      "codepoint": "U+10081E",
+      "image_fingerprint": "fnv1a64:da6f822c6eed68bd",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000005.png#compose:1x2:0:0",
+      "codepoint": "U+10081F",
+      "image_fingerprint": "fnv1a64:38035bae21f1e54a",
+      "active": true
+    },
+    {
+      "source_file": "penquin1--pgf-c3c40a7a-f000005.png#compose:1x2:0:1",
+      "codepoint": "U+100820",
+      "image_fingerprint": "fnv1a64:56fe22b72ce12f6b",
+      "active": true
+    }
+  ]
+}

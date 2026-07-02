@@ -1,0 +1,58 @@
+input_dir = "images"
+out_dir = "build"
+font_name = "Penquin1"
+glyph_size = 64
+threshold = 64
+codepoint_start = "U+100000"
+project_id = "2177040a020b4010822ca2c94b8c055c"
+
+[threshold_overrides]
+"penquin1--pgf-c3c40a7a-f000001.png" = 30
+"penquin1--pgf-c3c40a7a-f000002.png" = 30
+"penquin1--pgf-c3c40a7a-f000003.png" = 30
+"penquin1--pgf-c3c40a7a-f000004.png" = 30
+"penquin1--pgf-c3c40a7a-f000005.png" = 30
+
+[compositions."penquin1--pgf-c3c40a7a-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."penquin1--pgf-c3c40a7a-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."penquin1--pgf-c3c40a7a-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."penquin1--pgf-c3c40a7a-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."penquin1--pgf-c3c40a7a-f000005.png"]
+rows = 1
+cols = 1
+
+[[animations]]
+name = "penquin1pgfc3c40a7af_anim"
+type = "grid"
+fps = 16
+frames = [
+    "penquin1--pgf-c3c40a7a-f000001.png",
+    "penquin1--pgf-c3c40a7a-f000002.png",
+    "penquin1--pgf-c3c40a7a-f000003.png",
+    "penquin1--pgf-c3c40a7a-f000004.png",
+    "penquin1--pgf-c3c40a7a-f000005.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100

@@ -1,0 +1,52 @@
+[
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000001_r1_c1",
+    "source_file": "penquin1--pgf-c3c40a7a-f000001.png#compose:1x2:0:0",
+    "codepoint": "U+100817"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000001_r1_c2",
+    "source_file": "penquin1--pgf-c3c40a7a-f000001.png#compose:1x2:0:1",
+    "codepoint": "U+100818"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000002_r1_c1",
+    "source_file": "penquin1--pgf-c3c40a7a-f000002.png#compose:1x2:0:0",
+    "codepoint": "U+100819"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000002_r1_c2",
+    "source_file": "penquin1--pgf-c3c40a7a-f000002.png#compose:1x2:0:1",
+    "codepoint": "U+10081A"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000003_r1_c1",
+    "source_file": "penquin1--pgf-c3c40a7a-f000003.png#compose:1x2:0:0",
+    "codepoint": "U+10081B"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000003_r1_c2",
+    "source_file": "penquin1--pgf-c3c40a7a-f000003.png#compose:1x2:0:1",
+    "codepoint": "U+10081C"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000004_r1_c1",
+    "source_file": "penquin1--pgf-c3c40a7a-f000004.png#compose:1x2:0:0",
+    "codepoint": "U+10081D"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000004_r1_c2",
+    "source_file": "penquin1--pgf-c3c40a7a-f000004.png#compose:1x2:0:1",
+    "codepoint": "U+10081E"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000005_r1_c1",
+    "source_file": "penquin1--pgf-c3c40a7a-f000005.png#compose:1x2:0:0",
+    "codepoint": "U+10081F"
+  },
+  {
+    "glyph_name": "penquin1_pgf_c3c40a7a_f000005_r1_c2",
+    "source_file": "penquin1--pgf-c3c40a7a-f000005.png#compose:1x2:0:1",
+    "codepoint": "U+100820"
+  }
+]

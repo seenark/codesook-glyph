@@ -1,0 +1,52 @@
+input_dir = "images"
+out_dir = "build"
+font_name = "Dino1"
+glyph_size = 64
+threshold = 64
+codepoint_start = "U+100000"
+project_id = "4111b21ef6e74c1db25ba9bf7f781bee"
+
+[threshold_overrides]
+"dino1--pgf-407bdfcf-f000001.png" = 65
+"dino1--pgf-407bdfcf-f000002.png" = 65
+"dino1--pgf-407bdfcf-f000003.png" = 65
+"dino1--pgf-407bdfcf-f000004.png" = 65
+
+[compositions."dino1--pgf-407bdfcf-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."dino1--pgf-407bdfcf-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."dino1--pgf-407bdfcf-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."dino1--pgf-407bdfcf-f000004.png"]
+rows = 1
+cols = 1
+
+[[animations]]
+name = "dino1pgf407bdfcff_anim"
+type = "grid"
+fps = 12
+frames = [
+    "dino1--pgf-407bdfcf-f000001.png",
+    "dino1--pgf-407bdfcf-f000002.png",
+    "dino1--pgf-407bdfcf-f000003.png",
+    "dino1--pgf-407bdfcf-f000004.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100

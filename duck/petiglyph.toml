@@ -1,0 +1,203 @@
+input_dir = "images"
+out_dir = "build"
+font_name = "Duck"
+glyph_size = 64
+threshold = 64
+codepoint_start = "U+100000"
+project_id = "5b532062a9b841f4bc28f03036bb6c94"
+
+[threshold_overrides]
+"dock2--pgf-2464ae06-f000001.png" = 49
+"dock2--pgf-2464ae06-f000002.png" = 49
+"dock2--pgf-2464ae06-f000003.png" = 49
+"dock2--pgf-2464ae06-f000004.png" = 49
+"dock2--pgf-2464ae06-f000005.png" = 49
+"dock2--pgf-2464ae06-f000006.png" = 49
+"dock2--pgf-2464ae06-f000007.png" = 49
+"dock2--pgf-2464ae06-f000008.png" = 49
+"dock2--pgf-2464ae06-f000009.png" = 49
+"dock2--pgf-2464ae06-f000010.png" = 49
+"dock2--pgf-2464ae06-f000011.png" = 49
+"dock2--pgf-2464ae06-f000012.png" = 49
+"dock2--pgf-2464ae06-f000013.png" = 49
+"dock2--pgf-2464ae06-f000014.png" = 49
+"dock2--pgf-2464ae06-f000015.png" = 49
+
+[compositions."dock2--pgf-2464ae06-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000009.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000010.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000011.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000012.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000013.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000014.png"]
+rows = 1
+cols = 1
+
+[compositions."dock2--pgf-2464ae06-f000015.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000009.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000010.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000011.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000012.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000013.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000014.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000015.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000016.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000017.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000018.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000019.png"]
+rows = 1
+cols = 1
+
+[compositions."duck--pgf-af5e4607-f000020.png"]
+rows = 1
+cols = 1
+
+[[animations]]
+name = "duckpgfaf5e4607f_anim"
+type = "grid"
+fps = 16
+frames = [
+    "duck--pgf-af5e4607-f000001.png",
+    "duck--pgf-af5e4607-f000002.png",
+    "duck--pgf-af5e4607-f000003.png",
+    "duck--pgf-af5e4607-f000004.png",
+    "duck--pgf-af5e4607-f000005.png",
+    "duck--pgf-af5e4607-f000006.png",
+    "duck--pgf-af5e4607-f000007.png",
+    "duck--pgf-af5e4607-f000008.png",
+    "duck--pgf-af5e4607-f000009.png",
+    "duck--pgf-af5e4607-f000010.png",
+    "duck--pgf-af5e4607-f000011.png",
+    "duck--pgf-af5e4607-f000012.png",
+    "duck--pgf-af5e4607-f000013.png",
+    "duck--pgf-af5e4607-f000014.png",
+    "duck--pgf-af5e4607-f000015.png",
+    "duck--pgf-af5e4607-f000016.png",
+    "duck--pgf-af5e4607-f000017.png",
+    "duck--pgf-af5e4607-f000018.png",
+    "duck--pgf-af5e4607-f000019.png",
+    "duck--pgf-af5e4607-f000020.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100
