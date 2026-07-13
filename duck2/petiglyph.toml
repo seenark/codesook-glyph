@@ -1,0 +1,96 @@
+input_dir = "images"
+out_dir = "build"
+font_name = "Duck2"
+glyph_size = 64
+threshold = 64
+codepoint_start = "U+100000"
+project_id = "96d8d9e3591b4aa6813c6c7f4c8e2034"
+
+[compositions."duck4--pgf-8a341cba-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000009.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000010.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000011.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000012.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000013.png"]
+rows = 1
+cols = 1
+
+[compositions."duck4--pgf-8a341cba-f000014.png"]
+rows = 1
+cols = 1
+
+[[animations]]
+name = "duck4pgf8a341cbaf_anim"
+type = "grid"
+fps = 16
+frames = [
+    "duck4--pgf-8a341cba-f000001.png",
+    "duck4--pgf-8a341cba-f000002.png",
+    "duck4--pgf-8a341cba-f000003.png",
+    "duck4--pgf-8a341cba-f000004.png",
+    "duck4--pgf-8a341cba-f000005.png",
+    "duck4--pgf-8a341cba-f000006.png",
+    "duck4--pgf-8a341cba-f000007.png",
+    "duck4--pgf-8a341cba-f000008.png",
+    "duck4--pgf-8a341cba-f000009.png",
+    "duck4--pgf-8a341cba-f000010.png",
+    "duck4--pgf-8a341cba-f000011.png",
+    "duck4--pgf-8a341cba-f000012.png",
+    "duck4--pgf-8a341cba-f000013.png",
+    "duck4--pgf-8a341cba-f000014.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100

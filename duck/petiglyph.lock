@@ -1,8 +1,188 @@
 {
   "version": 1,
   "project_id": "5b532062a9b841f4bc28f03036bb6c94",
-  "codepoint_start": "U+1010F4",
+  "codepoint_start": "U+101A2B",
   "entries": [
+    {
+      "source_file": "dock2--pgf-2464ae06-f000001.png#compose:1x2:0:0",
+      "codepoint": "U+101A2B",
+      "image_fingerprint": "fnv1a64:67b70363d96fd55b",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000001.png#compose:1x2:0:1",
+      "codepoint": "U+101A2C",
+      "image_fingerprint": "fnv1a64:48bc3c5ace808b3a",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000002.png#compose:1x2:0:0",
+      "codepoint": "U+101A2D",
+      "image_fingerprint": "fnv1a64:dd15bdc71e894471",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000002.png#compose:1x2:0:1",
+      "codepoint": "U+101A2E",
+      "image_fingerprint": "fnv1a64:be1af6be1399fa50",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000003.png#compose:1x2:0:0",
+      "codepoint": "U+101A2F",
+      "image_fingerprint": "fnv1a64:97f3708f66b1d925",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000003.png#compose:1x2:0:1",
+      "codepoint": "U+101A30",
+      "image_fingerprint": "fnv1a64:78f8a9865bc28f04",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000004.png#compose:1x2:0:0",
+      "codepoint": "U+101A31",
+      "image_fingerprint": "fnv1a64:4eaa369d01d52178",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000004.png#compose:1x2:0:1",
+      "codepoint": "U+101A32",
+      "image_fingerprint": "fnv1a64:6da4fda60cc46b99",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000005.png#compose:1x2:0:0",
+      "codepoint": "U+101A33",
+      "image_fingerprint": "fnv1a64:d2d2af7f674933b5",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000005.png#compose:1x2:0:1",
+      "codepoint": "U+101A34",
+      "image_fingerprint": "fnv1a64:b3d7e8765c59e994",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000006.png#compose:1x2:0:0",
+      "codepoint": "U+101A35",
+      "image_fingerprint": "fnv1a64:d1d9a9b65c7cee0e",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000006.png#compose:1x2:0:1",
+      "codepoint": "U+101A36",
+      "image_fingerprint": "fnv1a64:f0d470bf676c382f",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000007.png#compose:1x2:0:0",
+      "codepoint": "U+101A37",
+      "image_fingerprint": "fnv1a64:3ae3261487fed8a7",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000007.png#compose:1x2:0:1",
+      "codepoint": "U+101A38",
+      "image_fingerprint": "fnv1a64:1be85f0b7d0f8e86",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000008.png#compose:1x2:0:0",
+      "codepoint": "U+101A39",
+      "image_fingerprint": "fnv1a64:7b9b876ddfe34b7f",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000008.png#compose:1x2:0:1",
+      "codepoint": "U+101A3A",
+      "image_fingerprint": "fnv1a64:5ca0c064d4f4015e",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000009.png#compose:1x2:0:0",
+      "codepoint": "U+101A3B",
+      "image_fingerprint": "fnv1a64:db2e8843bea6a771",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000009.png#compose:1x2:0:1",
+      "codepoint": "U+101A3C",
+      "image_fingerprint": "fnv1a64:bc33c13ab3b75d50",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000010.png#compose:1x2:0:0",
+      "codepoint": "U+101A3D",
+      "image_fingerprint": "fnv1a64:f9b3d72da98b2bab",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000010.png#compose:1x2:0:1",
+      "codepoint": "U+101A3E",
+      "image_fingerprint": "fnv1a64:dab910249e9be18a",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000011.png#compose:1x2:0:0",
+      "codepoint": "U+101A3F",
+      "image_fingerprint": "fnv1a64:a39846fc7a0c306e",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000011.png#compose:1x2:0:1",
+      "codepoint": "U+101A40",
+      "image_fingerprint": "fnv1a64:c2930e0584fb7a8f",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000012.png#compose:1x2:0:0",
+      "codepoint": "U+101A41",
+      "image_fingerprint": "fnv1a64:f92db67b238d4fff",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000012.png#compose:1x2:0:1",
+      "codepoint": "U+101A42",
+      "image_fingerprint": "fnv1a64:da32ef72189e05de",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000013.png#compose:1x2:0:0",
+      "codepoint": "U+101A43",
+      "image_fingerprint": "fnv1a64:31bbaa64441166ed",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000013.png#compose:1x2:0:1",
+      "codepoint": "U+101A44",
+      "image_fingerprint": "fnv1a64:12c0e35b39221ccc",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000014.png#compose:1x2:0:0",
+      "codepoint": "U+101A45",
+      "image_fingerprint": "fnv1a64:a69029cb1c8f858f",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000014.png#compose:1x2:0:1",
+      "codepoint": "U+101A46",
+      "image_fingerprint": "fnv1a64:879562c211a03b6e",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000015.png#compose:1x2:0:0",
+      "codepoint": "U+101A47",
+      "image_fingerprint": "fnv1a64:1860402be5bffcc3",
+      "active": true
+    },
+    {
+      "source_file": "dock2--pgf-2464ae06-f000015.png#compose:1x2:0:1",
+      "codepoint": "U+101A48",
+      "image_fingerprint": "fnv1a64:f9657922dad0b2a2",
+      "active": true
+    },
     {
       "source_file": "duck--pgf-af5e4607-f000001.png#compose:1x2:0:0",
       "codepoint": "U+1010F4",

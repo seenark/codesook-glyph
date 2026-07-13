@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "project_id": "96d8d9e3591b4aa6813c6c7f4c8e2034",
+  "codepoint_start": "U+100E47",
+  "entries": [
+    {
+      "source_file": "duck4--pgf-8a341cba-f000001.png#compose:1x2:0:0",
+      "codepoint": "U+100E47",
+      "image_fingerprint": "fnv1a64:dee5291caad68f1e",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000001.png#compose:1x2:0:1",
+      "codepoint": "U+100E48",
+      "image_fingerprint": "fnv1a64:fddff025b5c5d93f",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000002.png#compose:1x2:0:0",
+      "codepoint": "U+100E49",
+      "image_fingerprint": "fnv1a64:9286837488cb34fd",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000002.png#compose:1x2:0:1",
+      "codepoint": "U+100E4A",
+      "image_fingerprint": "fnv1a64:738bbc6b7ddbeadc",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000003.png#compose:1x2:0:0",
+      "codepoint": "U+100E4B",
+      "image_fingerprint": "fnv1a64:3db1accb5e8b99e5",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000003.png#compose:1x2:0:1",
+      "codepoint": "U+100E4C",
+      "image_fingerprint": "fnv1a64:1eb6e5c2539c4fc4",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000004.png#compose:1x2:0:0",
+      "codepoint": "U+100E4D",
+      "image_fingerprint": "fnv1a64:33469d21506c7895",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000004.png#compose:1x2:0:1",
+      "codepoint": "U+100E4E",
+      "image_fingerprint": "fnv1a64:144bd618457d2e74",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000005.png#compose:1x2:0:0",
+      "codepoint": "U+100E4F",
+      "image_fingerprint": "fnv1a64:56f841a9c4d52b72",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000005.png#compose:1x2:0:1",
+      "codepoint": "U+100E50",
+      "image_fingerprint": "fnv1a64:75f308b2cfc47593",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000006.png#compose:1x2:0:0",
+      "codepoint": "U+100E51",
+      "image_fingerprint": "fnv1a64:f79f7d18570e0141",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000006.png#compose:1x2:0:1",
+      "codepoint": "U+100E52",
+      "image_fingerprint": "fnv1a64:d8a4b60f4c1eb720",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000007.png#compose:1x2:0:0",
+      "codepoint": "U+100E53",
+      "image_fingerprint": "fnv1a64:0834d7fa84e8fdfe",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000007.png#compose:1x2:0:1",
+      "codepoint": "U+100E54",
+      "image_fingerprint": "fnv1a64:272f9f038fd8481f",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000008.png#compose:1x2:0:0",
+      "codepoint": "U+100E55",
+      "image_fingerprint": "fnv1a64:0836fd64ee32bea3",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000008.png#compose:1x2:0:1",
+      "codepoint": "U+100E56",
+      "image_fingerprint": "fnv1a64:e93c365be3437482",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000009.png#compose:1x2:0:0",
+      "codepoint": "U+100E57",
+      "image_fingerprint": "fnv1a64:95b3280fab844e4e",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000009.png#compose:1x2:0:1",
+      "codepoint": "U+100E58",
+      "image_fingerprint": "fnv1a64:b4adef18b673986f",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000010.png#compose:1x2:0:0",
+      "codepoint": "U+100E59",
+      "image_fingerprint": "fnv1a64:942882c081101ca1",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000010.png#compose:1x2:0:1",
+      "codepoint": "U+100E5A",
+      "image_fingerprint": "fnv1a64:752dbbb77620d280",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000011.png#compose:1x2:0:0",
+      "codepoint": "U+100E5B",
+      "image_fingerprint": "fnv1a64:29015f6f506c2423",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000011.png#compose:1x2:0:1",
+      "codepoint": "U+100E5C",
+      "image_fingerprint": "fnv1a64:0a069866457cda02",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000012.png#compose:1x2:0:0",
+      "codepoint": "U+100E5D",
+      "image_fingerprint": "fnv1a64:2ebecfa0014c85b3",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000012.png#compose:1x2:0:1",
+      "codepoint": "U+100E5E",
+      "image_fingerprint": "fnv1a64:0fc40896f65d3b92",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000013.png#compose:1x2:0:0",
+      "codepoint": "U+100E5F",
+      "image_fingerprint": "fnv1a64:36735affac9b73f3",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000013.png#compose:1x2:0:1",
+      "codepoint": "U+100E60",
+      "image_fingerprint": "fnv1a64:177893f6a1ac29d2",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000014.png#compose:1x2:0:0",
+      "codepoint": "U+100E61",
+      "image_fingerprint": "fnv1a64:cd412f539e06f41e",
+      "active": true
+    },
+    {
+      "source_file": "duck4--pgf-8a341cba-f000014.png#compose:1x2:0:1",
+      "codepoint": "U+100E62",
+      "image_fingerprint": "fnv1a64:ec3bf65ca8f63e3f",
+      "active": true
+    }
+  ]
+}

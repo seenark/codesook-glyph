@@ -1,5 +1,155 @@
 [
   {
+    "glyph_name": "dock2_pgf_2464ae06_f000001_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000001.png#compose:1x2:0:0",
+    "codepoint": "U+101A2B"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000001_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000001.png#compose:1x2:0:1",
+    "codepoint": "U+101A2C"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000002_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000002.png#compose:1x2:0:0",
+    "codepoint": "U+101A2D"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000002_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000002.png#compose:1x2:0:1",
+    "codepoint": "U+101A2E"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000003_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000003.png#compose:1x2:0:0",
+    "codepoint": "U+101A2F"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000003_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000003.png#compose:1x2:0:1",
+    "codepoint": "U+101A30"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000004_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000004.png#compose:1x2:0:0",
+    "codepoint": "U+101A31"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000004_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000004.png#compose:1x2:0:1",
+    "codepoint": "U+101A32"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000005_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000005.png#compose:1x2:0:0",
+    "codepoint": "U+101A33"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000005_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000005.png#compose:1x2:0:1",
+    "codepoint": "U+101A34"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000006_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000006.png#compose:1x2:0:0",
+    "codepoint": "U+101A35"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000006_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000006.png#compose:1x2:0:1",
+    "codepoint": "U+101A36"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000007_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000007.png#compose:1x2:0:0",
+    "codepoint": "U+101A37"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000007_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000007.png#compose:1x2:0:1",
+    "codepoint": "U+101A38"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000008_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000008.png#compose:1x2:0:0",
+    "codepoint": "U+101A39"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000008_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000008.png#compose:1x2:0:1",
+    "codepoint": "U+101A3A"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000009_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000009.png#compose:1x2:0:0",
+    "codepoint": "U+101A3B"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000009_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000009.png#compose:1x2:0:1",
+    "codepoint": "U+101A3C"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000010_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000010.png#compose:1x2:0:0",
+    "codepoint": "U+101A3D"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000010_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000010.png#compose:1x2:0:1",
+    "codepoint": "U+101A3E"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000011_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000011.png#compose:1x2:0:0",
+    "codepoint": "U+101A3F"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000011_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000011.png#compose:1x2:0:1",
+    "codepoint": "U+101A40"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000012_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000012.png#compose:1x2:0:0",
+    "codepoint": "U+101A41"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000012_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000012.png#compose:1x2:0:1",
+    "codepoint": "U+101A42"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000013_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000013.png#compose:1x2:0:0",
+    "codepoint": "U+101A43"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000013_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000013.png#compose:1x2:0:1",
+    "codepoint": "U+101A44"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000014_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000014.png#compose:1x2:0:0",
+    "codepoint": "U+101A45"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000014_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000014.png#compose:1x2:0:1",
+    "codepoint": "U+101A46"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000015_r1_c1",
+    "source_file": "dock2--pgf-2464ae06-f000015.png#compose:1x2:0:0",
+    "codepoint": "U+101A47"
+  },
+  {
+    "glyph_name": "dock2_pgf_2464ae06_f000015_r1_c2",
+    "source_file": "dock2--pgf-2464ae06-f000015.png#compose:1x2:0:1",
+    "codepoint": "U+101A48"
+  },
+  {
     "glyph_name": "duck_pgf_af5e4607_f000001_r1_c1",
     "source_file": "duck--pgf-af5e4607-f000001.png#compose:1x2:0:0",
     "codepoint": "U+1010F4"

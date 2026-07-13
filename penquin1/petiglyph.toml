@@ -7,11 +7,11 @@ codepoint_start = "U+100000"
 project_id = "2177040a020b4010822ca2c94b8c055c"
 
 [threshold_overrides]
-"penquin1--pgf-c3c40a7a-f000001.png" = 30
-"penquin1--pgf-c3c40a7a-f000002.png" = 30
-"penquin1--pgf-c3c40a7a-f000003.png" = 30
-"penquin1--pgf-c3c40a7a-f000004.png" = 30
-"penquin1--pgf-c3c40a7a-f000005.png" = 30
+"penquin1--pgf-c3c40a7a-f000001.png" = 35
+"penquin1--pgf-c3c40a7a-f000002.png" = 35
+"penquin1--pgf-c3c40a7a-f000003.png" = 35
+"penquin1--pgf-c3c40a7a-f000004.png" = 35
+"penquin1--pgf-c3c40a7a-f000005.png" = 35
 
 [compositions."penquin1--pgf-c3c40a7a-f000001.png"]
 rows = 1
