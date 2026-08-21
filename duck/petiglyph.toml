@@ -161,6 +161,15 @@ project_id = "5b532062a9b841f4bc28f03036bb6c94"
 "off--pgf-5d0fdbf6-f000018.png" = 19
 "off--pgf-5d0fdbf6-f000019.png" = 19
 "off--pgf-5d0fdbf6-f000020.png" = 19
+"omongus--pgf-db4ffc21-f000001.png" = 185
+"omongus--pgf-db4ffc21-f000002.png" = 185
+"omongus--pgf-db4ffc21-f000003.png" = 185
+"omongus--pgf-db4ffc21-f000004.png" = 185
+"omongus--pgf-db4ffc21-f000005.png" = 185
+"omongus--pgf-db4ffc21-f000006.png" = 185
+"omongus--pgf-db4ffc21-f000007.png" = 185
+"omongus--pgf-db4ffc21-f000008.png" = 185
+"omongus--pgf-db4ffc21-f000009.png" = 185
 
 [invert_overrides]
 "off--pgf-5d0fdbf6-f000001.png" = true
@@ -880,6 +889,42 @@ cols = 1
 rows = 1
 cols = 1
 
+[compositions."omongus--pgf-db4ffc21-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."omongus--pgf-db4ffc21-f000009.png"]
+rows = 1
+cols = 1
+
 [[animations]]
 name = "duckpgfaf5e4607f_anim"
 type = "grid"
@@ -1101,6 +1146,34 @@ frames = [
     "eyes-money--pgf-2e19d8d2-f000098.png",
     "eyes-money--pgf-2e19d8d2-f000099.png",
     "eyes-money--pgf-2e19d8d2-f000100.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100
+
+[[animations]]
+name = "omonguspgfdb4ffc21f_anim"
+type = "grid"
+fps = 8
+frames = [
+    "omongus--pgf-db4ffc21-f000001.png",
+    "omongus--pgf-db4ffc21-f000002.png",
+    "omongus--pgf-db4ffc21-f000003.png",
+    "omongus--pgf-db4ffc21-f000004.png",
+    "omongus--pgf-db4ffc21-f000005.png",
+    "omongus--pgf-db4ffc21-f000006.png",
+    "omongus--pgf-db4ffc21-f000007.png",
+    "omongus--pgf-db4ffc21-f000008.png",
+    "omongus--pgf-db4ffc21-f000009.png",
 ]
 rows = 1
 cols = 1

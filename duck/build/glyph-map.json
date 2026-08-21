@@ -1738,5 +1738,95 @@
     "glyph_name": "off_pgf_5d0fdbf6_f000020_r1_c2",
     "source_file": "off--pgf-5d0fdbf6-f000020.png#compose:1x2:0:1",
     "codepoint": "U+102E6A"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000001_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000001.png#compose:1x2:0:0",
+    "codepoint": "U+102E6B"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000001_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000001.png#compose:1x2:0:1",
+    "codepoint": "U+102E6C"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000002_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000002.png#compose:1x2:0:0",
+    "codepoint": "U+102E6D"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000002_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000002.png#compose:1x2:0:1",
+    "codepoint": "U+102E6E"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000003_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000003.png#compose:1x2:0:0",
+    "codepoint": "U+102E6F"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000003_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000003.png#compose:1x2:0:1",
+    "codepoint": "U+102E70"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000004_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000004.png#compose:1x2:0:0",
+    "codepoint": "U+102E71"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000004_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000004.png#compose:1x2:0:1",
+    "codepoint": "U+102E72"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000005_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000005.png#compose:1x2:0:0",
+    "codepoint": "U+102E73"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000005_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000005.png#compose:1x2:0:1",
+    "codepoint": "U+102E74"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000006_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000006.png#compose:1x2:0:0",
+    "codepoint": "U+102E75"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000006_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000006.png#compose:1x2:0:1",
+    "codepoint": "U+102E76"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000007_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000007.png#compose:1x2:0:0",
+    "codepoint": "U+102E77"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000007_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000007.png#compose:1x2:0:1",
+    "codepoint": "U+102E78"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000008_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000008.png#compose:1x2:0:0",
+    "codepoint": "U+102E79"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000008_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000008.png#compose:1x2:0:1",
+    "codepoint": "U+102E7A"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000009_r1_c1",
+    "source_file": "omongus--pgf-db4ffc21-f000009.png#compose:1x2:0:0",
+    "codepoint": "U+102E7B"
+  },
+  {
+    "glyph_name": "omongus_pgf_db4ffc21_f000009_r1_c2",
+    "source_file": "omongus--pgf-db4ffc21-f000009.png#compose:1x2:0:1",
+    "codepoint": "U+102E7C"
   }
 ]
