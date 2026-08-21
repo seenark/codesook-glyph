@@ -22,6 +22,48 @@ project_id = "5b532062a9b841f4bc28f03036bb6c94"
 "dock2--pgf-2464ae06-f000013.png" = 49
 "dock2--pgf-2464ae06-f000014.png" = 49
 "dock2--pgf-2464ae06-f000015.png" = 49
+"off--pgf-5d0fdbf6-f000001.png" = 19
+"off--pgf-5d0fdbf6-f000002.png" = 19
+"off--pgf-5d0fdbf6-f000003.png" = 19
+"off--pgf-5d0fdbf6-f000004.png" = 19
+"off--pgf-5d0fdbf6-f000005.png" = 19
+"off--pgf-5d0fdbf6-f000006.png" = 19
+"off--pgf-5d0fdbf6-f000007.png" = 19
+"off--pgf-5d0fdbf6-f000008.png" = 19
+"off--pgf-5d0fdbf6-f000009.png" = 19
+"off--pgf-5d0fdbf6-f000010.png" = 19
+"off--pgf-5d0fdbf6-f000011.png" = 19
+"off--pgf-5d0fdbf6-f000012.png" = 19
+"off--pgf-5d0fdbf6-f000013.png" = 19
+"off--pgf-5d0fdbf6-f000014.png" = 19
+"off--pgf-5d0fdbf6-f000015.png" = 19
+"off--pgf-5d0fdbf6-f000016.png" = 19
+"off--pgf-5d0fdbf6-f000017.png" = 19
+"off--pgf-5d0fdbf6-f000018.png" = 19
+"off--pgf-5d0fdbf6-f000019.png" = 19
+"off--pgf-5d0fdbf6-f000020.png" = 19
+
+[invert_overrides]
+"off--pgf-5d0fdbf6-f000001.png" = true
+"off--pgf-5d0fdbf6-f000002.png" = true
+"off--pgf-5d0fdbf6-f000003.png" = true
+"off--pgf-5d0fdbf6-f000004.png" = true
+"off--pgf-5d0fdbf6-f000005.png" = true
+"off--pgf-5d0fdbf6-f000006.png" = true
+"off--pgf-5d0fdbf6-f000007.png" = true
+"off--pgf-5d0fdbf6-f000008.png" = true
+"off--pgf-5d0fdbf6-f000009.png" = true
+"off--pgf-5d0fdbf6-f000010.png" = true
+"off--pgf-5d0fdbf6-f000011.png" = true
+"off--pgf-5d0fdbf6-f000012.png" = true
+"off--pgf-5d0fdbf6-f000013.png" = true
+"off--pgf-5d0fdbf6-f000014.png" = true
+"off--pgf-5d0fdbf6-f000015.png" = true
+"off--pgf-5d0fdbf6-f000016.png" = true
+"off--pgf-5d0fdbf6-f000017.png" = true
+"off--pgf-5d0fdbf6-f000018.png" = true
+"off--pgf-5d0fdbf6-f000019.png" = true
+"off--pgf-5d0fdbf6-f000020.png" = true
 
 [compositions."dock2--pgf-2464ae06-f000001.png"]
 rows = 1
@@ -163,6 +205,86 @@ cols = 1
 rows = 1
 cols = 1
 
+[compositions."off--pgf-5d0fdbf6-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000009.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000010.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000011.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000012.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000013.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000014.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000015.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000016.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000017.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000018.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000019.png"]
+rows = 1
+cols = 1
+
+[compositions."off--pgf-5d0fdbf6-f000020.png"]
+rows = 1
+cols = 1
+
 [[animations]]
 name = "duckpgfaf5e4607f_anim"
 type = "grid"
@@ -188,6 +310,45 @@ frames = [
     "duck--pgf-af5e4607-f000018.png",
     "duck--pgf-af5e4607-f000019.png",
     "duck--pgf-af5e4607-f000020.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100
+
+[[animations]]
+name = "offpgf5d0fdbf6f_anim"
+type = "grid"
+fps = 16
+frames = [
+    "off--pgf-5d0fdbf6-f000001.png",
+    "off--pgf-5d0fdbf6-f000002.png",
+    "off--pgf-5d0fdbf6-f000003.png",
+    "off--pgf-5d0fdbf6-f000004.png",
+    "off--pgf-5d0fdbf6-f000005.png",
+    "off--pgf-5d0fdbf6-f000006.png",
+    "off--pgf-5d0fdbf6-f000007.png",
+    "off--pgf-5d0fdbf6-f000008.png",
+    "off--pgf-5d0fdbf6-f000009.png",
+    "off--pgf-5d0fdbf6-f000010.png",
+    "off--pgf-5d0fdbf6-f000011.png",
+    "off--pgf-5d0fdbf6-f000012.png",
+    "off--pgf-5d0fdbf6-f000013.png",
+    "off--pgf-5d0fdbf6-f000014.png",
+    "off--pgf-5d0fdbf6-f000015.png",
+    "off--pgf-5d0fdbf6-f000016.png",
+    "off--pgf-5d0fdbf6-f000017.png",
+    "off--pgf-5d0fdbf6-f000018.png",
+    "off--pgf-5d0fdbf6-f000019.png",
+    "off--pgf-5d0fdbf6-f000020.png",
 ]
 rows = 1
 cols = 1
