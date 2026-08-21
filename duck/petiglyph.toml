@@ -22,6 +22,25 @@ project_id = "5b532062a9b841f4bc28f03036bb6c94"
 "dock2--pgf-2464ae06-f000013.png" = 49
 "dock2--pgf-2464ae06-f000014.png" = 49
 "dock2--pgf-2464ae06-f000015.png" = 49
+"dog-like--pgf-ff753976-f000001.png" = 32
+"dog-like--pgf-ff753976-f000002.png" = 32
+"dog-like--pgf-ff753976-f000003.png" = 32
+"dog-like--pgf-ff753976-f000004.png" = 32
+"dog-like--pgf-ff753976-f000005.png" = 32
+"dog-like--pgf-ff753976-f000006.png" = 32
+"dog-like--pgf-ff753976-f000007.png" = 32
+"dog-like--pgf-ff753976-f000008.png" = 32
+"dog-like--pgf-ff753976-f000009.png" = 32
+"dog-like--pgf-ff753976-f000010.png" = 32
+"dog-like--pgf-ff753976-f000011.png" = 32
+"dog-like--pgf-ff753976-f000012.png" = 32
+"dog-like--pgf-ff753976-f000013.png" = 32
+"dog-like--pgf-ff753976-f000014.png" = 32
+"dog-like--pgf-ff753976-f000015.png" = 32
+"dog-like--pgf-ff753976-f000016.png" = 32
+"dog-like--pgf-ff753976-f000017.png" = 32
+"dog-like--pgf-ff753976-f000018.png" = 32
+"dog-like--pgf-ff753976-f000019.png" = 32
 "off--pgf-5d0fdbf6-f000001.png" = 19
 "off--pgf-5d0fdbf6-f000002.png" = 19
 "off--pgf-5d0fdbf6-f000003.png" = 19
@@ -122,6 +141,82 @@ rows = 1
 cols = 1
 
 [compositions."dock2--pgf-2464ae06-f000015.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000001.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000002.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000003.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000004.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000005.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000006.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000007.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000008.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000009.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000010.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000011.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000012.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000013.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000014.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000015.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000016.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000017.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000018.png"]
+rows = 1
+cols = 1
+
+[compositions."dog-like--pgf-ff753976-f000019.png"]
 rows = 1
 cols = 1
 
@@ -349,6 +444,44 @@ frames = [
     "off--pgf-5d0fdbf6-f000018.png",
     "off--pgf-5d0fdbf6-f000019.png",
     "off--pgf-5d0fdbf6-f000020.png",
+]
+rows = 1
+cols = 1
+horizontal_bleed = "weak"
+vertical_bleed = "off"
+
+[animations.grayscale_processing]
+grayscale_enabled = true
+
+[animations.grayscale_processing.grayscale]
+brightness = 0
+contrast = 0
+gamma_percent = 100
+
+[[animations]]
+name = "doglikepgfff753976f_anim"
+type = "grid"
+fps = 8
+frames = [
+    "dog-like--pgf-ff753976-f000001.png",
+    "dog-like--pgf-ff753976-f000002.png",
+    "dog-like--pgf-ff753976-f000003.png",
+    "dog-like--pgf-ff753976-f000004.png",
+    "dog-like--pgf-ff753976-f000005.png",
+    "dog-like--pgf-ff753976-f000006.png",
+    "dog-like--pgf-ff753976-f000007.png",
+    "dog-like--pgf-ff753976-f000008.png",
+    "dog-like--pgf-ff753976-f000009.png",
+    "dog-like--pgf-ff753976-f000010.png",
+    "dog-like--pgf-ff753976-f000011.png",
+    "dog-like--pgf-ff753976-f000012.png",
+    "dog-like--pgf-ff753976-f000013.png",
+    "dog-like--pgf-ff753976-f000014.png",
+    "dog-like--pgf-ff753976-f000015.png",
+    "dog-like--pgf-ff753976-f000016.png",
+    "dog-like--pgf-ff753976-f000017.png",
+    "dog-like--pgf-ff753976-f000018.png",
+    "dog-like--pgf-ff753976-f000019.png",
 ]
 rows = 1
 cols = 1

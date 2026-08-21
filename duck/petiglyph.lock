@@ -184,6 +184,234 @@
       "active": true
     },
     {
+      "source_file": "dog-like--pgf-ff753976-f000001.png#compose:1x2:0:0",
+      "codepoint": "U+101A99",
+      "image_fingerprint": "fnv1a64:c62724516b5b0aa5",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000001.png#compose:1x2:0:1",
+      "codepoint": "U+101A9A",
+      "image_fingerprint": "fnv1a64:a72c5d48606bc084",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000002.png#compose:1x2:0:0",
+      "codepoint": "U+101A9B",
+      "image_fingerprint": "fnv1a64:bbf86ca51241914f",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000002.png#compose:1x2:0:1",
+      "codepoint": "U+101A9C",
+      "image_fingerprint": "fnv1a64:9cfda59c0752472e",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000003.png#compose:1x2:0:0",
+      "codepoint": "U+101A9D",
+      "image_fingerprint": "fnv1a64:fda689481d1b34b1",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000003.png#compose:1x2:0:1",
+      "codepoint": "U+101A9E",
+      "image_fingerprint": "fnv1a64:deabc23f122bea90",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000004.png#compose:1x2:0:0",
+      "codepoint": "U+101A9F",
+      "image_fingerprint": "fnv1a64:0299be75a810f61a",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000004.png#compose:1x2:0:1",
+      "codepoint": "U+101AA0",
+      "image_fingerprint": "fnv1a64:2194857eb300403b",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000005.png#compose:1x2:0:0",
+      "codepoint": "U+101AA1",
+      "image_fingerprint": "fnv1a64:fda689481d1b34b1",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000005.png#compose:1x2:0:1",
+      "codepoint": "U+101AA2",
+      "image_fingerprint": "fnv1a64:deabc23f122bea90",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000006.png#compose:1x2:0:0",
+      "codepoint": "U+101AA3",
+      "image_fingerprint": "fnv1a64:0299be75a810f61a",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000006.png#compose:1x2:0:1",
+      "codepoint": "U+101AA4",
+      "image_fingerprint": "fnv1a64:2194857eb300403b",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000007.png#compose:1x2:0:0",
+      "codepoint": "U+101AA5",
+      "image_fingerprint": "fnv1a64:fda689481d1b34b1",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000007.png#compose:1x2:0:1",
+      "codepoint": "U+101AA6",
+      "image_fingerprint": "fnv1a64:deabc23f122bea90",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000008.png#compose:1x2:0:0",
+      "codepoint": "U+101AA7",
+      "image_fingerprint": "fnv1a64:3796cf5612c74e38",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000008.png#compose:1x2:0:1",
+      "codepoint": "U+101AA8",
+      "image_fingerprint": "fnv1a64:5691965f1db69859",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000009.png#compose:1x2:0:0",
+      "codepoint": "U+101AA9",
+      "image_fingerprint": "fnv1a64:ca1c07da391e0c74",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000009.png#compose:1x2:0:1",
+      "codepoint": "U+101AAA",
+      "image_fingerprint": "fnv1a64:e916cee3440d5695",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000010.png#compose:1x2:0:0",
+      "codepoint": "U+101AAB",
+      "image_fingerprint": "fnv1a64:f9e58d31de4be21d",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000010.png#compose:1x2:0:1",
+      "codepoint": "U+101AAC",
+      "image_fingerprint": "fnv1a64:daeac628d35c97fc",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000011.png#compose:1x2:0:0",
+      "codepoint": "U+101AAD",
+      "image_fingerprint": "fnv1a64:75438f8ee580ad3c",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000011.png#compose:1x2:0:1",
+      "codepoint": "U+101AAE",
+      "image_fingerprint": "fnv1a64:943e5697f06ff75d",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000012.png#compose:1x2:0:0",
+      "codepoint": "U+101AAF",
+      "image_fingerprint": "fnv1a64:017099000a1d7b77",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000012.png#compose:1x2:0:1",
+      "codepoint": "U+101AB0",
+      "image_fingerprint": "fnv1a64:e275d1f6ff2e3156",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000013.png#compose:1x2:0:0",
+      "codepoint": "U+101AB1",
+      "image_fingerprint": "fnv1a64:d6af10554d7c0ccc",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000013.png#compose:1x2:0:1",
+      "codepoint": "U+101AB2",
+      "image_fingerprint": "fnv1a64:f5a9d75e586b56ed",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000014.png#compose:1x2:0:0",
+      "codepoint": "U+101AB3",
+      "image_fingerprint": "fnv1a64:017099000a1d7b77",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000014.png#compose:1x2:0:1",
+      "codepoint": "U+101AB4",
+      "image_fingerprint": "fnv1a64:e275d1f6ff2e3156",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000015.png#compose:1x2:0:0",
+      "codepoint": "U+101AB5",
+      "image_fingerprint": "fnv1a64:d6af10554d7c0ccc",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000015.png#compose:1x2:0:1",
+      "codepoint": "U+101AB6",
+      "image_fingerprint": "fnv1a64:f5a9d75e586b56ed",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000016.png#compose:1x2:0:0",
+      "codepoint": "U+101AB7",
+      "image_fingerprint": "fnv1a64:017099000a1d7b77",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000016.png#compose:1x2:0:1",
+      "codepoint": "U+101AB8",
+      "image_fingerprint": "fnv1a64:e275d1f6ff2e3156",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000017.png#compose:1x2:0:0",
+      "codepoint": "U+101AB9",
+      "image_fingerprint": "fnv1a64:d6af10554d7c0ccc",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000017.png#compose:1x2:0:1",
+      "codepoint": "U+101ABA",
+      "image_fingerprint": "fnv1a64:f5a9d75e586b56ed",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000018.png#compose:1x2:0:0",
+      "codepoint": "U+101ABB",
+      "image_fingerprint": "fnv1a64:017099000a1d7b77",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000018.png#compose:1x2:0:1",
+      "codepoint": "U+101ABC",
+      "image_fingerprint": "fnv1a64:e275d1f6ff2e3156",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000019.png#compose:1x2:0:0",
+      "codepoint": "U+101ABD",
+      "image_fingerprint": "fnv1a64:d6af10554d7c0ccc",
+      "active": true
+    },
+    {
+      "source_file": "dog-like--pgf-ff753976-f000019.png#compose:1x2:0:1",
+      "codepoint": "U+101ABE",
+      "image_fingerprint": "fnv1a64:f5a9d75e586b56ed",
+      "active": true
+    },
+    {
       "source_file": "duck--pgf-af5e4607-f000001.png#compose:1x2:0:0",
       "codepoint": "U+101A49",
       "image_fingerprint": "fnv1a64:9b8360e8782273a8",
